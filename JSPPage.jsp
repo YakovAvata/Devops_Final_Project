@@ -1,6 +1,7 @@
 <%@ page import = "java.io.*,java.util.*, javax.servlet.*" %>
 <html>
    <head>
+      <title>Devops Course Final Project</title>
       <title>Display Current Date & Time</title>
    </head>
    <body>
