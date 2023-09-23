@@ -2,11 +2,11 @@
 <html>
    <head>
       <title>Devops Course Final Project</title>
-      <title>Display Current Date & Time</title>
    </head>
    <body>
       <center>
-         <h1>Display Current Date & Time</h1>
+         <h1>Devops Course Final Project</h1>
+         <h2>Display Current Date & Time</h2>
       </center>
       <%
          Date date = new Date();
