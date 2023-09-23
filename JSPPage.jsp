@@ -6,7 +6,7 @@
    <body>
       <center>
          <h1>Devops Course Final Project</h1>
-         <h2>Display Current Date & Time</h2>
+         <h2>The Current Date & Time</h2>
       </center>
       <%
          Date date = new Date();
